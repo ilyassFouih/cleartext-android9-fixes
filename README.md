@@ -1,6 +1,6 @@
 # clear text problem with android 9 update .
 
-**problem description and solution :**
+**problem description :**
 	
 
 problem oucured when using android 9 .you can't use http request by default ,so you have to specify in your manifest file that you are using them by setting clear text to true .in cordova and ionic project you have to specify that one config.json
